@@ -1,6 +1,6 @@
 /*
  * Arduino morse code decoder
- * Build instructions (french) : www.mallorycoeur.com/decodeur-de-code-morse/
+ * Build instructions (french) : http://www.mallorycoeur.com/decoder-du-morse-avec-un-arduino/
  * Mallory COEUR - 2015
  */
 
