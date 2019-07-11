@@ -1,7 +1,7 @@
 /*
  * Arduino morse code decoder
  * Build instructions (french) : https://www.mallorycoeur.com/posts/decoder-du-morse-avec-un-arduino.html
- * Mallory COEUR - 2015
+ * Mallory COEUR - 2016
  */
 
 #include <LiquidCrystal.h>
